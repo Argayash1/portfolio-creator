@@ -1,0 +1,9 @@
+.page {
+  font-weight: 400;
+  min-width: 320px;
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 40px 0 20px;
+  text-rendering: optimizeLegibility;
+}
