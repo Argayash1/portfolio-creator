@@ -5,3 +5,7 @@
 .header__nav-list-item:nth-last-child(2) {
   margin-right: 8px;
 }
+
+.header__nav-list-item:last-child {
+  margin: 0;
+}
