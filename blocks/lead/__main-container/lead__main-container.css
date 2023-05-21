@@ -1,0 +1,6 @@
+.lead__main-container {
+  display: grid;
+  grid-template-columns: 647px 500px;
+  grid-template-rows: 248px 66px 58px;
+  row-gap: 34px;
+}

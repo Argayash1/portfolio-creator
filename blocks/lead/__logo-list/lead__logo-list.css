@@ -1,0 +1,6 @@
+.lead__logo-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+}
