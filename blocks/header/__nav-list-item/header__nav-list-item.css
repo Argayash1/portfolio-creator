@@ -1,0 +1,7 @@
+.header__nav-list-item {
+  margin-right: 40px;
+}
+
+.header__nav-list-item:nth-last-child(2) {
+  margin-right: 8px;
+}
