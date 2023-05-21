@@ -4,9 +4,22 @@
 @import url(../blocks/body/body.css);
 
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__content/page__content.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__nav-list/header__nav-list.css);
 @import url(../blocks/header/__nav-list-item/header__nav-list-item.css);
+@import url(../blocks/header/__nav-list-arrow/header__nav-list-arrow.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__lead/content__lead.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__span/lead__span.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__buttons/lead__buttons.css);
+@import url(../blocks/lead/__button/lead__button.css);
+@import url(../blocks/lead/__button/_style/lead__button_style_white.css);
+@import url(../blocks/lead/__image/lead_image.css);

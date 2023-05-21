@@ -8,7 +8,7 @@
   </head>
   <body class="body">
     <div class="page">
-      <header class="header page__header">
+      <header class="header">
         <img class="header__logo" src="./images/header-logo.svg" />
         <nav>
           <ul class="header__nav-list">
@@ -17,10 +17,33 @@
             <li class="header__nav-list-item">Projects</li>
             <li class="header__nav-list-item">Blog</li>
             <li class="header__nav-list-item">Book a call</li>
-            <li class="header__nav-list-item">&rarr;</li>
+            <li class="header__nav-list-item">
+              <img
+                class="header__nav-list-arrow"
+                src="./images/header-arrow.svg"
+                alt="Arrow-button"
+              />
+            </li>
           </ul>
         </nav>
       </header>
+      <main class="content page__content">
+        <section class="lead content__lead">
+          <h1 class="lead__title">
+            <span class="lead__span">I design products</span> that delight and inspire people.
+          </h1>
+          <p class="lead__subtitle">
+            Hi! I'm Jake, a product designer based in Berlin. I create user-friendly interfaces for
+            fast-growing startups.
+          </p>
+          <ul class="lead__buttons">
+            <li><button class="lead__button">Book a call</button></li>
+            <li><button class="lead__button lead__button_style_white">Download CV</button></li>
+            <li><img src="./images/header-arrow.svg" alt="Arrow-button" /></li>
+          </ul>
+          <img src="./images/lead__photo.png" class="lead_image" />
+        </section>
+      </main>
     </div>
   </body>
 </html>

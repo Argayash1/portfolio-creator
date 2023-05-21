@@ -1,9 +1,10 @@
 .header__nav-list-item {
-  margin-right: 40px;
+  margin: 0 40px 0 0;
+  padding: 0;
 }
 
 .header__nav-list-item:nth-last-child(2) {
-  margin-right: 8px;
+  margin-right: 10px;
 }
 
 .header__nav-list-item:last-child {
