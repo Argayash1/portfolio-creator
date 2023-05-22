@@ -1,0 +1,7 @@
+.sevices__list-item {
+  max-width: 252px;
+}
+
+.sevices__list-item:nth-child(2) {
+  max-width: 285px;
+}

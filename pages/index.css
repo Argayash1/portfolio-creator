@@ -13,7 +13,7 @@
 @import url(../blocks/header/__nav-list-arrow/header__nav-list-arrow.css);
 
 @import url(../blocks/content/content.css);
-@import url(../blocks/content/__lead/content__lead.css);
+@import url(../blocks/content/__services/content__services.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__main-container/lead__main-container.css);
@@ -28,3 +28,26 @@
 @import url(../blocks/lead/__logo-container-title/lead__logo-container-title.css);
 @import url(../blocks/lead/__logo-list/lead__logo-list.css);
 @import url(../blocks/lead/__logo/lead__logo.css);
+
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__section-title/services__section-title.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__list/services__list.css);
+@import url(../blocks/services/__list-item/sevices__list-item.css);
+@import url(../blocks/services/__image-container/services__image-container.css);
+@import url(../blocks/services/__semicircle-big/services__semicircle-big.css);
+@import url(../blocks/services/__semicircle-big/_color/services__semicircle-big_color_multi.css);
+@import url(../blocks/services/__semicircle-little/services__semicircle-little.css);
+@import url(../blocks/services/__semicircle-little/_color/services__semicircle-little_color_multi.css);
+@import url(../blocks/services/__arrow-up/services__arrow-up.css);
+@import url(../blocks/services/__arrow-up/_color/services__arrow-up_color_multi.css);
+@import url(../blocks/services/__arrow-down/services__arrow-down.css);
+@import url(../blocks/services/__arrow-down/_color/services__arrow-dowm_color_multi.css);
+@import url(../blocks/services/__head/services__head.css);
+@import url(../blocks/services/__head/_color/services__head_color_multi.css);
+@import url(../blocks/services/__body/services__body.css);
+@import url(../blocks/services/__body/_color/services__body_color_multi.css);
+@import url(../blocks/services/__item-title/sevicws__item-title.css);
+@import url(../blocks/services/__item-subtitle/services__item-subtitle.css);
+@import url(../blocks/services/__item-list/services__item-list.css);
+@import url(../blocks/services/__item-list-element/services__item-list-element.css);

@@ -1,0 +1,9 @@
+.services__title {
+  max-width: 768px;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  text-align: center;
+  letter-spacing: 1px;
+  margin: 20px auto 115px;
+}
