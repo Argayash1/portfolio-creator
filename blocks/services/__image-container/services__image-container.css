@@ -1,3 +1,5 @@
 .services__image-container {
+  width: 70px;
+  height: 70px;
   display: flex;
 }

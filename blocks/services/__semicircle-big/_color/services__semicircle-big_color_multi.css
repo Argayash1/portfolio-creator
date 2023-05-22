@@ -1,3 +1,6 @@
 .services__semicircle-big_color_multi {
   background-image: url(../../../../images/services-semic-2.svg);
+  position: relative;
+  right: 20px;
+  z-index: -1;
 }

@@ -2,4 +2,7 @@
   width: 16px;
   height: 34px;
   background-image: url(../../../images/services-semic-3.svg);
+  position: relative;
+  right: 20px;
+  top: 20px;
 }
