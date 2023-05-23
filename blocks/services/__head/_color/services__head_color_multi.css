@@ -1,3 +1,6 @@
 .services__head_color_multi {
   background-image: url(../../../../images/services-head-multicolored.svg);
+  top: 9px;
+  left: 33px;
+  z-index: -1;
 }

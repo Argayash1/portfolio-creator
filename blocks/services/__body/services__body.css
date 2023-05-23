@@ -2,4 +2,8 @@
   width: 65px;
   height: 33px;
   background-image: url(../../../images/services-body-black.svg);
+  position: absolute;
+  bottom: 4px;
+  left: 10px;
+  z-index: 1;
 }

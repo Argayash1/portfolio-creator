@@ -2,6 +2,6 @@
   list-style: none;
   display: flex;
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 50px;
   gap: 144px;
 }
