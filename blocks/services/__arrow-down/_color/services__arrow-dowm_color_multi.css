@@ -1,3 +1,7 @@
 .services__arrow-dowm_color_multi {
   background-image: url(../../../../images/services__arrow-multicolored-2.svg);
+  right: 18.7px;
+  top: 26px;
+  rotate: -64deg;
+  z-index: -1;
 }

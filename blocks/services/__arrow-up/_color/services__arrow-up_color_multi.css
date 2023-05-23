@@ -1,7 +1,7 @@
 .services__arrow-up_color_multi {
   background-image: url(../../../../images/services__arrow-multicolored-1.svg);
-  position: relative;
-  top: 3px;
-  right: 30px;
+  position: absolute;
+  top: 4px;
+  right: 35px;
   z-index: -1;
 }
