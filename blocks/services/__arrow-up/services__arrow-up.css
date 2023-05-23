@@ -1,9 +1,5 @@
 .services__arrow-up {
   width: 32px;
   height: 39px;
-  background-image: url(../../../images/services__arrow-black-2.svg);
-  rotate: 45deg;
-  position: relative;
-  bottom: 10px;
-  z-index: 10;
+  background-image: url(../../../images/services__arrow-black-1.svg);
 }

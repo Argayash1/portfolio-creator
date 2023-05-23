@@ -1,4 +1,7 @@
 .services__arrow-up_color_multi {
   background-image: url(../../../../images/services__arrow-multicolored-1.svg);
-  rotate: 90deg;
+  position: relative;
+  top: 3px;
+  right: 30px;
+  z-index: -1;
 }
