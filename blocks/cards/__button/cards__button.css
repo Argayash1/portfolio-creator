@@ -1,0 +1,10 @@
+.cards__button {
+  background-image: url(../../../images/header-arrow.svg);
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  width: 14px;
+  height: 14px;
+  align-self: flex-end;
+  margin-left: 10px;
+}

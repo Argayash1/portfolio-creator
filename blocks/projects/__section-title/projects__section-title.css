@@ -1,10 +1,9 @@
-.services__section-title {
+.projects__section-title {
   font-weight: 700;
   font-size: 22px;
   line-height: 22px;
-  text-align: center;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: #ff5e69;
+  color: #b16cea;
   margin: 0;
 }

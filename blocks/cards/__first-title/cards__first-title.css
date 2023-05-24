@@ -1,0 +1,11 @@
+.cards__first-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #3c46ff;
+  margin: 33px 0 17px;
+  padding-left: 32px;
+  box-sizing: border-box;
+}

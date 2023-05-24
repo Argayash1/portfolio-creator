@@ -1,0 +1,6 @@
+.cards__container {
+  display: flex;
+  align-items: center;
+  padding-left: 32px;
+  box-sizing: border-box;
+}

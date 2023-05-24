@@ -14,6 +14,7 @@
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__services/content__services.css);
+@import url(../blocks/content/__propjects/content__propjects.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__main-container/lead__main-container.css);
@@ -51,3 +52,18 @@
 @import url(../blocks/services/__item-subtitle/services__item-subtitle.css);
 @import url(../blocks/services/__item-list/services__item-list.css);
 @import url(../blocks/services/__item-list-element/services__item-list-element.css);
+
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__section-title/projects__section-title.css);
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__button/projects__button.css);
+@import url(../blocks/projects/__title-container/projects__title-container.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards--image.css);
+@import url(../blocks/cards/__first-title/cards__first-title.css);
+@import url(../blocks/cards/__second-title/cards__second-title.css);
+@import url(../blocks/cards/__container/cards__container.css);
+@import url(../blocks/cards/__button/cards__button.css);
+@import url(../blocks/cards/__subtitle/cards__subtitle.css);
