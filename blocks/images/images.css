@@ -1,0 +1,8 @@
+.images {
+  width: 1215px;
+  display: grid;
+  grid-template-columns: 338px 507px 338px;
+  grid-template-rows: 305px 305px;
+  gap: 16px;
+  padding-bottom: 80px;
+}

@@ -84,3 +84,12 @@
 @import url(../blocks/blogs/__time/blogs__time.css);
 @import url(../blocks/blogs/__item-title/blogs__item-title.css);
 @import url(../blocks/blogs/__item/blogs__item.css);
+
+@import url(../blocks/product-designer/product-designer.css);
+
+@import url(../blocks/text-container/text-container.css);
+@import url(../blocks/text-container/__title-container/text-container__title-container.css);
+@import url(../blocks/text-container/__text/text-container__text.css);
+
+@import url(../blocks/images/images.css);
+@import url(../blocks/images/__image/images__image.css);
