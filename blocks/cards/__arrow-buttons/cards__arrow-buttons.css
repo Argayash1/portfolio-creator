@@ -1,0 +1,6 @@
+.cards__arrow-buttons {
+  display: flex;
+  justify-content: end;
+  gap: 7px;
+  margin: 26px 112px 0 0;
+}

@@ -1,0 +1,9 @@
+.cards__arrow-button {
+  width: 54px;
+  height: 54px;
+  background-image: url(../../../images/projects-arrow-left.svg);
+  background-repeat: no-repeat;
+  background-color: #ffffff;
+  background-position: 50%;
+  border: none;
+}

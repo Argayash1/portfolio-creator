@@ -1,0 +1,10 @@
+.blogs__arrow {
+  background-image: url(../../../images/blogs-arrow.svg);
+  background-repeat: no-repeat;
+  background-color: #000;
+  background-position: 50%;
+  width: 13px;
+  height: 13px;
+  display: inline-block;
+  margin-left: 10px;
+}

@@ -30,6 +30,10 @@
 @import url(../blocks/lead/__logo-list/lead__logo-list.css);
 @import url(../blocks/lead/__logo/lead__logo.css);
 
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_type/section-title_type_blogs.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
 @import url(../blocks/services/services.css);
 @import url(../blocks/services/__section-title/services__section-title.css);
 @import url(../blocks/services/__title/services__title.css);
@@ -67,3 +71,16 @@
 @import url(../blocks/cards/__container/cards__container.css);
 @import url(../blocks/cards/__button/cards__button.css);
 @import url(../blocks/cards/__subtitle/cards__subtitle.css);
+@import url(../blocks/cards/__arrow-buttons/cards__arrow-buttons.css);
+@import url(../blocks/cards/__arrow-button/cards__arrow-button.css);
+@import url(../blocks/cards/__arrow-button/_type/cards__arrow-button_type_right.css);
+
+@import url(../blocks/blogs/blogs.css);
+@import url(../blocks/blogs/__container/blogs__container.css);
+@import url(../blocks/blogs/__link/blogs__link.css);
+@import url(../blocks/blogs/__arrow/blogs__arrow.css);
+@import url(../blocks/blogs/__list/blogs__list.css);
+@import url(../blocks/blogs/__date/blogs__date.css);
+@import url(../blocks/blogs/__time/blogs__time.css);
+@import url(../blocks/blogs/__item-title/blogs__item-title.css);
+@import url(../blocks/blogs/__item/blogs__item.css);

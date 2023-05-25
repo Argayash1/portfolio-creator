@@ -1,0 +1,9 @@
+.blogs__link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
